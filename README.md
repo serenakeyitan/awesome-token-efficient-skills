@@ -6,7 +6,7 @@ Most awesome-lists rank by stars or topic. This one ranks by the only thing that
 
 > Curated by the [first-tree](https://github.com/unispark-inc/first-tree?ref=awesome-token-efficient-skills) team.
 
-> use this [link](https://cloud.first-tree.ai/login?utm_source=github&utm_medium=readme&utm_campaign=awesome-token-efficient-skills-app) to use [first-tree 🌳](https://first-tree.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-token-efficient-skills-site) for **free!!!** — the most efficient way to **loopmaxx your engineering work** :D
+> use [first-tree 🌳](https://first-tree.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-token-efficient-skills-site) for **free!!!** — the most efficient way to **loopmaxx your engineering work** :D
 
 ---
 
